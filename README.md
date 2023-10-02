@@ -1,4 +1,4 @@
-# Capstone-Project--4
+# Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 <p align="center"> 
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
@@ -95,4 +95,3 @@ It will solve for improved movie and TV-Show selection times with a considerable
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranav4536)
 
 
-# Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
