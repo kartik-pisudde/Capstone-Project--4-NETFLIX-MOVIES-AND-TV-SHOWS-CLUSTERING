@@ -1,6 +1,7 @@
 # Capstone-Project--4
 <p align="center"> 
-  <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
+  <img src="![netflix-logo-png-2574 (1)](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/cef39418-43ef-4dea-988d-2f313bc8da3c)
+" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
