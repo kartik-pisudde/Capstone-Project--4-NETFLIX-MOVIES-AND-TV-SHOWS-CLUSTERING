@@ -1,4 +1,6 @@
+!![netflix-logo-png-2574](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/6af8ee48-d432-4f49-8707-81ef8e9a7904)
 # Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
+[netflix-logo-png-2574](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/fe72a5b0-3a29-4269-afd9-cdd54fe83329)
 <p align="center"> 
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
