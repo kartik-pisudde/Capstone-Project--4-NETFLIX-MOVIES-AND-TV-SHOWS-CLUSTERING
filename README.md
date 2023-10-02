@@ -1,7 +1,4 @@
-!![netflix-logo-png-2574](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/6af8ee48-d432-4f49-8707-81ef8e9a7904)
-# Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
-![netflix-logo-png-2574](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/c5809c91-671d-4a4d-b09f-680690797ab3)
-[netflix-logo-png-2574](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/fe72a5b0-3a29-4269-afd9-cdd54fe83329)
+# Capstone-Project--4
 <p align="center"> 
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
@@ -66,7 +63,6 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 # Dash Web App:
 NetflixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
-![gsmarena_001](https://github.com/kartik-pisudde/Capstone-Project--4-NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/assets/117140067/f55b2e5b-721b-44f9-b87e-a11282426be8)
 
 ![App](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/6eacd171009b37abffa5992fe32c2bfc45384043/Images/App.png)
 
